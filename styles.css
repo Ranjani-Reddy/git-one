@@ -2,4 +2,5 @@ body{
   background:red;
   padding:30;
   min-height: 3;
+  max-width: 2;
 }
